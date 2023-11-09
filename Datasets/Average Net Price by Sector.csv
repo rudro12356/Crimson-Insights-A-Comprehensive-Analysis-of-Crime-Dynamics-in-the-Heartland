@@ -1,0 +1,61 @@
+ID Sector,Sector,ID Year,Year,Geography,ID Geography,Slug Geography,Spent,Spent ID,Value
+1,"Public, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,10092
+2,"Private not-for-profit, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,31000
+1,"Public, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,10092
+2,"Private not-for-profit, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,30170
+1,"Public, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,10092
+2,"Private not-for-profit, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,29300
+1,"Public, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,10092
+2,"Private not-for-profit, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,29300
+1,"Public, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,9818
+2,"Private not-for-profit, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,28430
+1,"Public, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,9579
+2,"Private not-for-profit, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,27600
+1,"Public, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,9123
+2,"Private not-for-profit, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,26730
+1,"Public, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,8807
+2,"Private not-for-profit, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,25950
+6,"Private for-profit, 2-year",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,13703
+1,"Public, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,8396
+2,"Private not-for-profit, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,25200
+6,"Private for-profit, 2-year",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Tuition",1,15740
+1,"Public, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,777
+2,"Private not-for-profit, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,600
+1,"Public, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,777
+2,"Private not-for-profit, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,500
+1,"Public, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,777
+2,"Private not-for-profit, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,500
+1,"Public, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,818
+2,"Private not-for-profit, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,450
+1,"Public, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,743
+2,"Private not-for-profit, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,450
+1,"Public, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,725
+2,"Private not-for-profit, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,355
+1,"Public, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,707
+2,"Private not-for-profit, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,350
+1,"Public, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,570
+2,"Private not-for-profit, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,340
+6,"Private for-profit, 2-year",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,345
+1,"Public, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,532
+2,"Private not-for-profit, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,380
+6,"Private for-profit, 2-year",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","State Fee",2,365
+1,"Public, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1406
+2,"Private not-for-profit, 4-year or above",2021,"2021","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1406
+2,"Private not-for-profit, 4-year or above",2020,"2020","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1338
+2,"Private not-for-profit, 4-year or above",2019,"2019","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1290
+2,"Private not-for-profit, 4-year or above",2018,"2018","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1290
+2,"Private not-for-profit, 4-year or above",2017,"2017","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1245
+2,"Private not-for-profit, 4-year or above",2016,"2016","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+2,"Private not-for-profit, 4-year or above",2015,"2015","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+1,"Public, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1051
+2,"Private not-for-profit, 4-year or above",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+6,"Private for-profit, 2-year",2014,"2014","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,910
+1,"Public, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+2,"Private not-for-profit, 4-year or above",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1200
+6,"Private for-profit, 2-year",2013,"2013","Lawrence, KS","31000US29940","lawrence-ks-31000US29940","Books And Supplies",3,1156
