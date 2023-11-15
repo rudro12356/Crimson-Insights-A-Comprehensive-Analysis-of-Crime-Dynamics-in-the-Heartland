@@ -1,10 +1,14 @@
-# Harmony-in-Heartland-Lawrence-KS
-A Social Data Science Analysis of Education, Housing, Race/Ethnicity, and Occupation Dynamics in Kansas
+# Crimson Insights
+"Crimson Insights" is an ambitious endeavor aimed at unraveling the intricate tapestry of crime dynamics within the heartland of the United States, specifically focusing on the state of Kansas. This comprehensive analysis seeks to illuminate patterns, trends, and underlying factors contributing to crime rates, offering valuable insights that extend beyond statistical figures.
 
-Our project aims to conduct a comprehensive social data science analysis focusing on key aspects of Kansas society, including education, housing, race/ethnicity, and occupation data. By synthesizing information from reliable sources such as government databases, educational institutions, and census data, we seek to uncover intricate patterns, correlations, and insights that shed light on the social dynamics within the state. Through a combination of statistical analysis, data visualization, and machine learning techniques, we hope to provide a nuanced understanding of these interrelated factors, enabling informed decision-making and potentially identifying areas for improvement or intervention.
+## Temporal Trends Exploration:
+Investigate how crime rates in Kansas have evolved over different periods, identifying key turning points and patterns.
 
-# Datasets
-https://datausa.io/profile/geo/lawrence-ks/
+## Geospatial Mapping:
+Utilize advanced geospatial techniques to map crime hotspots, providing a visual representation of where criminal activities concentrate.
+
+## Predictive Modeling:
+Develop predictive models to forecast future crime trends, aiding in proactive law enforcement strategies and resource allocation.
 
 # Members
 Shuvo, Ahsan, Saeed, Tanvir, Rudro
